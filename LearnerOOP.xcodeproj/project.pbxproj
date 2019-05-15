@@ -13,6 +13,7 @@
 		DDF98794228BD9000009FCAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDF98793228BD9000009FCAE /* Assets.xcassets */; };
 		DDF98797228BD9000009FCAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDF98795228BD9000009FCAE /* LaunchScreen.storyboard */; };
 		DDF9879F228BE5940009FCAE /* LearnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF9879E228BE5940009FCAE /* LearnerModel.swift */; };
+		DDF987C1228C030F0009FCAE /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF987C0228C030F0009FCAE /* FacilitatorModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DDF98796228BD9000009FCAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDF98798228BD9000009FCAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DDF9879E228BE5940009FCAE /* LearnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerModel.swift; sourceTree = "<group>"; };
+		DDF987C0228C030F0009FCAE /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DDF98795228BD9000009FCAE /* LaunchScreen.storyboard */,
 				DDF98798228BD9000009FCAE /* Info.plist */,
 				DDF9879E228BE5940009FCAE /* LearnerModel.swift */,
+				DDF987C0228C030F0009FCAE /* FacilitatorModel.swift */,
 			);
 			path = LearnerOOP;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDF987C1228C030F0009FCAE /* FacilitatorModel.swift in Sources */,
 				DDF9878F228BD9000009FCAE /* ViewController.swift in Sources */,
 				DDF9879F228BE5940009FCAE /* LearnerModel.swift in Sources */,
 				DDF9878D228BD9000009FCAE /* AppDelegate.swift in Sources */,
